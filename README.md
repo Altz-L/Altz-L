@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=10&duration=4000&pause=300&color=F8F9FA&center=true&multiline=true&repeat=false&random=false&height=100&lines=Hello,+I'm+Moskvin+Ivan;I'm+a+first+year+student+Irkutsk+State+University />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=10&duration=4000&pause=300&color=F8F9FA&center=true&multiline=true&repeat=false&random=false&height=100&lines=Hello,+I'm+Moskvin+Ivan;I'm+a+first+year+student+Irkutsk+State+University" />
 <hr>
 
 ## My Teck Stack
