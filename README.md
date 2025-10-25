@@ -10,3 +10,10 @@
   <img src="./icons/HTML.svg"width="40" height="40"/>&nbsp;
   <img src="./icons/CSS.svg"width="40" height="40"/>&nbsp;
 </div>
+<div style="
+  background-image: url('./icons/Python.svg');
+  background-size: cover;
+  background-position: center;
+">
+  Здесь текст или другой контент на фоне
+</div>
