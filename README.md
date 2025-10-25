@@ -5,4 +5,8 @@
 
 <div>
   <img src="./icons/GitHub.svg"width="40" height="40"/>&nbsp;
+  <img src="./icons/Python.svg"width="40" height="40"/>&nbsp;
+  <img src="./icons/C++.svg"width="40" height="40"/>&nbsp;
+  <img src="./icons/HTML.svg"width="40" height="40"/>&nbsp;
+  <img src="./icons/CSS.svg"width="40" height="40"/>&nbsp;
 </div>
