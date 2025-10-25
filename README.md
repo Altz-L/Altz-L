@@ -3,6 +3,7 @@
 
 ## Languages and tools that I study
 
+
 <div>
   <img src="./icons/Python.svg"width="80" height="80"/>&nbsp;
   <img src="./icons/C++.svg"width="80" height="80"/>&nbsp;
